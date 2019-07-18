@@ -15,7 +15,12 @@ if ('serviceWorker' in navigator) {
 }
 
 // place your code below
+const menuBtn = document.querySelector('.navbar__button');
+const menu = document.querySelector('.navbar:not(.navbar__item)');
 
+menuBtn.addEventListener('click', e => {
+  menu.style.width = '100%';
+})
 
 console.log(`Hello world!`);
 
