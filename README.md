@@ -2,9 +2,6 @@
 
 ## App target - help you to drink more water!
 
-### Step by step instruction:
+### App overview: 
 
-1. 
-```
-npm install
-```
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
